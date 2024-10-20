@@ -1,0 +1,12 @@
+body{
+background-color: aqua;
+margin: 0px;
+padding: 0px;
+}
+ body div img{
+display:inline;
+margin: 5%;
+width: 500px;
+height: 400px;
+
+}
